@@ -1,5 +1,5 @@
 # c-interpreter-practice
-the code is from:https://github.com/lotabout/write-a-C-interpreter
+this tutorial is from:https://github.com/lotabout/write-a-C-interpreter
 
 實作心得：
 依照教學實作一個c語言的直譯器，以下是我對程式碼的理解
